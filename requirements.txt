@@ -1,0 +1,17 @@
+llama-index
+openai
+pypdf
+python_dotenv
+ipykernel
+# llama-index-embeddings-huggingface
+transformers
+einops
+accelerate
+langchain
+langchain-community
+bitsandbytes # For Quantization
+sentence-transformers # For Embeddings
+llama-index-llms-huggingface # For local inference
+llama-index-llms-huggingface-api # For remote inference
+mlx-lm
+llama-index-embeddings-langchain
